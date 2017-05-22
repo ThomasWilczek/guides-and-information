@@ -22,7 +22,8 @@ https://guides.github.com/features/mastering-markdown/
 *Kinda to lazy to put more in here now*
 
 ## Security
-https://web.archive.org/web/20170114115133/https://crunchbang.org/forums/viewtopic.php?id=24722   
+https://web.archive.org/web/20170114115133/
+https://crunchbang.org/forums/viewtopic.php?id=24722   
 https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords   
 https://wiki.installgentoo.com/index.php/Encryption   
 https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work   
