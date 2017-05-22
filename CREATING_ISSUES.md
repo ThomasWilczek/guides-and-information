@@ -2,8 +2,14 @@
 
 ## The Title
 
-The title of an issue should contain a minimal description of the problem, 
-nothing else.
+The title of an issue should contain a minimal description of the problem, and
+the fitting prefix, nothing else.   
+A prefix tells us where the problem exists, for example:
+
+* CORE
+* DOCS
+* FEATURE
+* PLUGIN 
 
 ## The Content
 
