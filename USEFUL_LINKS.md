@@ -1,7 +1,7 @@
 # A collection of useful links
 *These don't represent the opinions of all members*
 *Not all of these are actually useful*
-*Also, this isn't all necessery*
+*Also, this isn't all necessary*
 
 ## Basic Philosophy and Ideas
 https://en.wikipedia.org/wiki/Unix_philosophy   
