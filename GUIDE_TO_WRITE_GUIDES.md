@@ -11,14 +11,17 @@ Much like a books table of contents, but more detailed.
 The style should look like this:
 
 ### 1. Feature/Idea
-      1.1 What does it do?
-        1.1.1 Why does it do?
-      1.2 Variables
-      1.3 Functions 
-      1.4 Prototype (Can be in an extra file)
+
+1. What does it do?
+      1. Why does it do what it does?
+1. Variables
+1. Functions 
+1. Prototype (Can be in an extra file)
+
 ### 2. Another Feature
-      1.1 Variables
-      1.2 Todo
+
+1. Variables
+1. Todo
 
 Much like this, it should not contain the real content only links 
 to the information you desire, so it's easily reachable.
@@ -34,28 +37,29 @@ words as possible. For example:
 ### 1. Feature
 
 #### What does it do?
-     This function sets a ton of ants on fire and returns true if succesfull.
+
+This function sets a ton of ants on fire and returns true if succesfull.
 
 ##### Why does it do that?
-      The author doesn't like ants, also better working keyboard without ants
-      in it.
+
+The author doesn't like ants, also better working keyboard without ants in it.
 
 #### Variables
 
-     `int antAmount;` -- Contains the amount of ants available to burn
-     `boolean bar;` -- Is set true if the ants burn correctly and will be
-      returned
+* `int antAmount;` -- Contains the amount of ants available to burn   
+* `boolean bar;` -- Is set true if the ants burn correctly and will be
+returned
 
 #### void foo()
-     ```
-     void foo() {
-       if(antAmount !== 0) {
-         bar = burnAnts(antAmount);
-       }
-     
-     returns bar 
-     }
-     ```
+```
+void foo() {
+ if(antAmount !== 0) {
+   bar = burnAnts(antAmount);
+ }
+
+returns bar 
+}
+```
 ## The summary
 
 Sum up what happened and let people think about it. This part shouldn't take a
