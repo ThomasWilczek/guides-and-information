@@ -3,6 +3,12 @@
 *Not all of these are actually useful*
 *Also, this isn't all necessary*
 
+## Index
+* [Basic Philiosophy and Ideas](#basic-philosophy-and-ideas)
+* [Basic Skills and Knowledge](#basic-skills-and-knowledge)
+* [Security](#security)
+* [A great guide on what not to do, written filled with sarcasm](https://github.com/Droogans/unmaintainable-code)
+
 ## Basic Philosophy and Ideas
 https://en.wikipedia.org/wiki/Unix_philosophy   
 https://wiki.installgentoo.com/index.php/GNU/Linux   
@@ -16,7 +22,7 @@ https://en.wikipedia.org/wiki/KISS_principle
 https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 
-## Basic Skills && Knowledge
+## Basic Skills and Knowledge
 https://wiki.installgentoo.com/index.php/Programming_resources   
 https://tools.ietf.org/html/rfc2616   
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines   
