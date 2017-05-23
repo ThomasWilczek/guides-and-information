@@ -7,10 +7,13 @@
 https://en.wikipedia.org/wiki/Unix_philosophy   
 https://wiki.installgentoo.com/index.php/GNU/Linux   
 https://copyleft.org/   
-https://www.gnu.org/philosophy/free-sw.html   
+https://www.gnu.org/philosophy/free-sw.html    
+https://en.wikipedia.org/wiki/Hacker_culture      
+https://en.wikipedia.org/wiki/Hacker_ethic    
 https://en.wikipedia.org/wiki/Zen_of_Python (Not only good for python)   
 https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it   
 https://en.wikipedia.org/wiki/KISS_principle   
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 
 ## Basic Skills && Knowledge
