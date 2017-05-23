@@ -31,9 +31,11 @@ https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords
 https://wiki.installgentoo.com/index.php/Encryption   
 https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work   
 
+## Documentation
+http://arc42.org/download
+
 ### A great guide on what not to do, written filled with sarcasm
 https://github.com/Droogans/unmaintainable-code   
-
 
 ### Put everything interesting in here if you want, saves me some time 
 Also have some Muppets https://www.youtube.com/watch?v=8d4RtvMQp10
