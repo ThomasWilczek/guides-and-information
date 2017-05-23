@@ -3,6 +3,9 @@ _Disclaimer: These guides are not always best practices and merely represent how
 
 In this repository we will collect the styleguides, documentation and the like.  
 
+## READ THIS FIRST
+* Code of conduct ([link](CODE_OF_CONDUCT.md))
+
 ## Guides
 ### Management
 * Creating issues ([link](CREATING_ISSUES.md))
